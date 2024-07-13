@@ -7,6 +7,7 @@ This repository covers outlier detection using box plots and distribution plots,
 Outliers are data points that differ significantly from other observations. Detecting and handling outliers is crucial for improving the accuracy of statistical analyses and machine learning models. This repository includes two popular methods for detecting outliers: 
 - Box plots
 - Distribution plots
+
  and two techniques for removing outliers:
 - Interquartile Range (IQR)
 - Z-score methods.
