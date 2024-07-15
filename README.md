@@ -1,6 +1,6 @@
 # Outlier Detection and Removal
 
-This repository covers outlier detection using box plots and distribution plots, and removal techniques using the Interquartile Range (IQR) and Z-score methods.
+This repository covers outlier detection using box plots and distribution plots,  and removal techniques using the Interquartile Range (IQR) and Z-score methods.
 
 
 ## Introduction
